@@ -11,6 +11,15 @@ namespace SnakeAndLabour
         static void Main(string[] args)
         {
             UC1SnakeAndLadder.Solution();
+            UC2SnakeAndLadder.Solution();
+
+            UC3SnakeAndLadder.Solution();
+
+            UC4SnakeAndLadder.Solution();
+
+            UC5SnakeAndLadder.Solution();
+
+            UC6SnakeAndLadder.Solution();
 
         }
      }

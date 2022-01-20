@@ -13,7 +13,7 @@ namespace SnakeAndLabour
         public static void Solution()
         {
             UC1SnakeAndLadder app = new UC1SnakeAndLadder();
-            CurrentPosition = InitialPosition;
+            app.CurrentPosition = app.InitialPosition;
             Console.WriteLine($"current position is at {app.CurrentPosition}");
         }
     
